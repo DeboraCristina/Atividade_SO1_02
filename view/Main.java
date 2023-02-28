@@ -17,6 +17,7 @@ public class Main
         do
         {
             String answer = menuOption();
+            answer = answer == null? "3":answer;
 
             try
             {

@@ -1,10 +1,10 @@
 # Listando e Matando Processos
 
-![[./imgs/window - main.png]]
+!(img)[./imgs/window - main.png]
 
 ## Listando Processos
 
-![[./imgs/list process.png]]
+!(img)[./imgs/list process.png]
 
 ## Matando um Processo
 

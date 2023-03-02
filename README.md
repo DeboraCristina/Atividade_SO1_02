@@ -5,16 +5,16 @@
 
 ## Listando Processos
 
-!(img)[./imgs/list process.png]
+<img src="./imgs/list process.png">
 
 ## Matando um Processo
 
-![[./imgs/window - kill.png]]
+<img src="./imgs/window - kill.png">
 
 ### Usando o PID do Processo
-![[./imgs/kill  by id.png]]
+<img src="./imgs/kill  by id.png">
 
 ### Ou o Nome do Processo
-![[./imgs/kill by name.png]]
+<img src="./imgs/kill by name.png">
 
-![[./imgs/Process terminated.png]]
+<img src="./imgs/Process terminated.png">

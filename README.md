@@ -1,6 +1,7 @@
 # Listando e Matando Processos
 
-!(img)[./imgs/window - main.png]
+
+<img src="./imgs/window - main.png">
 
 ## Listando Processos
 
